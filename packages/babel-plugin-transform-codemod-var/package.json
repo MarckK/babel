@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-transform-codemod-var",
+  "version": "7.0.0-alpha.19",
+  "description": "Transforms variable code modification from ES5 to 2015",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-codemod-var",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "7.0.0-alpha.19"
+  }
+}
